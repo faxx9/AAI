@@ -1,0 +1,47 @@
+2026-04-20 11:19:46,529:WARNING:C:\Users\DynaBook\AppData\Local\Temp\ipykernel_6340\775285572.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['flipper_length_mm'] = data['flipper_length_mm'].fillna(data['flipper_length_mm'].mean())
+
+2026-04-20 11:20:36,113:WARNING:c:\Users\DynaBook\Downloads\AAI\student\W3\.venv\Lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+
+2026-04-20 11:21:03,529:WARNING:C:\Users\DynaBook\AppData\Local\Temp\ipykernel_6340\775285572.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['flipper_length_mm'] = data['flipper_length_mm'].fillna(data['flipper_length_mm'].mean())
+
+2026-04-20 11:28:11,538:WARNING:c:\Users\DynaBook\Downloads\AAI\student\W3\.venv\Lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+
+2026-04-20 11:29:42,385:WARNING:C:\Users\DynaBook\AppData\Local\Temp\ipykernel_6340\775285572.py:1: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data['flipper_length_mm'] = data['flipper_length_mm'].fillna(data['flipper_length_mm'].mean())
+
+2026-04-20 11:29:42,418:WARNING:c:\Users\DynaBook\Downloads\AAI\student\W3\.venv\Lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+
+2026-04-20 11:29:42,423:WARNING:c:\Users\DynaBook\Downloads\AAI\student\W3\.venv\Lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+
+2026-04-20 11:29:42,453:WARNING:c:\Users\DynaBook\Downloads\AAI\student\W3\.venv\Lib\site-packages\sklearn\base.py:493: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
+  warnings.warn(
+
+2026-04-20 11:29:42,762:WARNING:C:\Users\DynaBook\AppData\Local\Temp\ipykernel_6340\3602734776.py:2: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  data[feat] = data[feat].fillna(data[feat].mean())
+
+2026-04-20 11:37:37,292:WARNING:C:\Users\DynaBook\AppData\Local\Temp\ipykernel_6340\2248429940.py:12: UserWarning: 
+The palette list has fewer values (2) than needed (3) and will cycle, which may produce an uninterpretable plot.
+  sns.scatterplot(
+

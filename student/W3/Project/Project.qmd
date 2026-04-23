@@ -1,0 +1,6 @@
+---
+title: "Project"
+format: html
+---
+
+Pick a Kaggle competition and do it: [Link](https://www.kaggle.com/competitions).
